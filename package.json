@@ -1,0 +1,19 @@
+{
+  "name": "patienttranscriber",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rasooli451/PatientTranscriber.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rasooli451/PatientTranscriber/issues"
+  },
+  "homepage": "https://github.com/rasooli451/PatientTranscriber#readme"
+}
